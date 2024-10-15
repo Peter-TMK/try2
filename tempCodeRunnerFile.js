@@ -1,0 +1,2 @@
+ ...newStudents];
+// console.log(newArrStudent);
